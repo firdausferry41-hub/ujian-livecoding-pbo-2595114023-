@@ -78,6 +78,6 @@ python kasus_2_penilaian_akademik.py
 
 ## 6. Link Pengumpulan
 - **Repository GitHub:**  https://github.com/firdausferry41-hub/ujian-livecoding-pbo-2595114023-.git
-- **Rekaman layar:**https://drive.google.com/drive/folders/16eNkPO-IEb7ID1LC8u5DbD-om4yu2kde?usp=drive_link
+- **Rekaman layar:** https://drive.google.com/drive/folders/16eNkPO-IEb7ID1LC8u5DbD-om4yu2kde?usp=drive_link
  
 
