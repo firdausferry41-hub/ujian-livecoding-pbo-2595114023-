@@ -26,7 +26,7 @@ Konsep PBO:
 - Enkapsulasi sederhana.
 
 ### Kasus 2: Sistem Penilaian Akademik Mahasiswa
-**Nama file:** `kasus_2_nilai.py`
+**Nama file:** `kasus_2_penilaian_akademik.py`
 
 Program untuk menghitung nilai akhir mahasiswa berdasarkan nilai tugas, UTS, dan UAS.
 
